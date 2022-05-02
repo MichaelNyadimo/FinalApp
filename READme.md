@@ -12,4 +12,4 @@ Users will be able to view the reviews that people have left about each vehicle
 
 Sign-in and registration
 
-Users will be able to sign and register for the site with a password and username
+Users will be able to sign in with the username admin and password: Password123
